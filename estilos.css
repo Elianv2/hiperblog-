@@ -34,3 +34,10 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+#footer {
+    background: rgb(32, 37, 61);
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+}
